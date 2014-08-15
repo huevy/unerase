@@ -1,0 +1,19 @@
+{
+  "name": "unerase",
+  "version": "0.0.0",
+  "description": "Unerase(TM)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huevy/unerase.git"
+  },
+  "author": "nobody <nobody@example.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/huevy/unerase/issues"
+  },
+  "homepage": "https://github.com/huevy/unerase"
+}
